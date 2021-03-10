@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <h1>
     <Link to='/' className="redux-header">
-      Reduxstagram
+      Definitely not Instagstagram
     </Link>
     </h1>
   )
